@@ -1,0 +1,39 @@
+Privacy Policy for [Bot Name]
+
+Last Updated: [8/11/26]
+
+This Privacy Policy explains how [Bot Name] ("the Bot", "we", "our") collects, uses, and protects information when added to a Discord server. By using the Bot, you agree to the policies outlined below.
+
+1. Information We Collect
+To function as a server management and utility tool, the Bot may collect and store the following data:
+* Discord Identifiers: User IDs, Guild (Server) IDs, Channel IDs, and Role IDs.
+* Server Configurations: Custom settings configured by server administrators (e.g., logging channels, welcome messages, role hierarchies).
+* Message Content: The Bot may temporarily process message content to execute commands, filter prohibited words, or log deleted/edited messages if configured by the server administrator.
+* Activity Logs: Data related to server events, such as member joins/leaves, role updates, and moderation actions (kicks, bans, warnings).
+
+2. How We Use the Information
+The collected data is used exclusively to provide the Bot's advertised features:
+* Executing commands initiated by users.
+* Enforcing server moderation rules and logging administrative actions.
+* Saving server-specific configurations and preferences.
+* Troubleshooting errors and improving bot stability.
+
+We do not use your data for advertising, profiling, or any purpose outside of the Bot's core functionality.
+
+3. Data Storage and Retention
+* Configurations and Moderation Records: Server settings and moderation histories (e.g., blacklists, warnings) are stored securely until the server administrator removes the bot or requests data deletion.
+* Message Data: The Bot does not permanently store the content of general chat messages unless explicitly required for a specific moderation logging feature enabled by the server. 
+* Removal: If the Bot is removed from a server, associated configuration data may be permanently deleted after [Insert timeframe, e.g., 30 days] of inactivity.
+
+4. Data Sharing and Disclosure
+We will never sell, rent, or distribute your data to third parties. Data is only accessed by the Bot's developers for maintenance and debugging purposes, or if required by law enforcement or Discord's Terms of Service.
+
+5. User Rights and Data Deletion
+Server administrators and individual users have the right to request the deletion of their data. 
+* Administrators can delete their server's data by removing the Bot from their server or using the [Insert reset command, e.g., /cleardata] command.
+* Individuals can request the removal of their specific User ID from our databases by contacting the developer.
+
+6. Contact Us
+If you have any questions or concerns about this Privacy Policy, or if you wish to request data deletion, please contact us via:
+* Discord Support Server: https://discord.gg/YkGy5WtyaV]
+* Direct Contact: [Tyler_playz]
